@@ -1,0 +1,1201 @@
+Patient_ID,Name,Age,Gender,BMI,Smoking_Status,Insurance_Type,Primary_Condition,Primary_ICD10
+PJ-00001,Mark Johnson,37,Male,33.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00002,Javier Johnson,41,Male,30.0,Never,Commercial,Essential Hypertension,I10
+PJ-00003,Marie Gardner,33,Female,23.7,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00004,Kevin Pacheco,48,Male,36.5,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00005,Brittney Bernard,53,Female,30.2,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00006,William Gray,60,Male,24.7,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00007,Ronald Montgomery,81,Male,36.6,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00008,Darren Roberts,50,Male,42.8,Former,Commercial,Essential Hypertension,I10
+PJ-00009,Jacqueline Clark,40,Female,17.1,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00010,Maria Lynch,38,Female,25.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00011,James Mayo,61,Male,26.4,Active,Medicaid,Essential Hypertension,I10
+PJ-00012,Amanda Stewart,57,Female,37.3,Never,Commercial,Essential Hypertension,I10
+PJ-00013,Jennifer Rocha,81,Female,33.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00014,Stephanie Ross,84,Female,30.2,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00015,Mark Conner,70,Male,29.5,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00016,Joseph Maddox,39,Male,31.3,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00017,Melanie Herrera,59,Female,21.3,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00018,Kathryn White,52,Female,22.7,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00019,Mark Lynch,52,Male,26.4,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00020,Kerry Smith,45,Female,30.8,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00021,Sandra Parker,54,Female,30.6,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00022,Sherry Arroyo,72,Female,29.1,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00023,Betty Alvarez,69,Female,30.0,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00024,Jenny Lewis,72,Female,29.5,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00025,Matthew Kim,53,Male,23.4,Never,Commercial,Essential Hypertension,I10
+PJ-00026,George Chapman,35,Male,33.1,Never,Medicaid,Essential Hypertension,I10
+PJ-00027,Susan Heath,74,Female,41.4,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00028,Taylor Duncan,75,Female,35.2,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00029,Julie Daniel,43,Female,37.4,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00030,David Lee,55,Male,34.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00031,Thomas Ramos,81,Male,29.5,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00032,Samuel Martin,57,Male,17.4,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00033,Cindy Morales,43,Female,26.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00034,Jay Bernard,56,Male,36.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00035,Kerry Daniels,60,Male,26.9,Active,Commercial,Essential Hypertension,I10
+PJ-00036,Tonya Miller,50,Female,35.9,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00037,Kristopher Harvey,38,Male,32.2,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00038,Christina Moran,52,Female,29.4,Never,Medicaid,Essential Hypertension,I10
+PJ-00039,Angel Ellis,22,Female,22.0,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00040,Benjamin Lewis,71,Male,34.8,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00041,Jacob Moore,59,Male,23.1,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00042,Michael Carr,22,Male,22.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00043,Aimee Montoya,42,Female,39.0,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00044,Brian Tran,52,Male,22.1,Active,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00045,Deborah Freeman,45,Female,36.4,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00046,Mandy Green,64,Female,35.0,Former,Commercial,Essential Hypertension,I10
+PJ-00047,Stephen Mckee,67,Male,46.2,Former,Commercial,Essential Hypertension,I10
+PJ-00048,Eric Nolan,69,Male,34.6,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00049,David Garcia,89,Male,31.8,Former,Commercial,Essential Hypertension,I10
+PJ-00050,Tara Hancock,57,Female,33.0,Never,Commercial,Essential Hypertension,I10
+PJ-00051,Gary Galvan,69,Male,35.4,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00052,Shelby Garrison,24,Female,24.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00053,Joe Torres,28,Male,29.9,Never,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00054,Sean Rasmussen,62,Male,31.6,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00055,Cassandra Estes,43,Female,22.7,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00056,Laura Scott,70,Female,22.6,Active,Medicare,Chronic Kidney Disease,N18.3
+PJ-00057,Jackson Jones,71,Male,37.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00058,Ellen Ortiz,50,Female,38.0,Never,Commercial,Essential Hypertension,I10
+PJ-00059,Megan Orr,89,Female,38.9,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00060,Jessica Carpenter,79,Female,33.3,Never,Medicare,Essential Hypertension,I10
+PJ-00061,Kara Santana,38,Female,30.3,Former,Commercial,Essential Hypertension,I10
+PJ-00062,Kaylee Schultz,57,Female,30.4,Active,Commercial,Essential Hypertension,I10
+PJ-00063,Curtis Johnson,66,Male,30.7,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00064,Johnny Sanchez,51,Male,38.3,Never,Commercial,Essential Hypertension,I10
+PJ-00065,Randy Rodriguez,55,Male,32.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00066,Danielle Charles,58,Female,37.4,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00067,Tiffany Vance,47,Female,38.8,Never,Uninsured,Congestive Heart Failure,I50.9
+PJ-00068,Joshua Merritt,89,Male,30.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00069,David Walsh,38,Male,23.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00070,Denise Jones,46,Female,26.4,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00071,Brenda Hall,23,Female,24.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00072,Jason Daniels,53,Male,33.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00073,Lauren Dominguez,50,Female,31.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00074,Scott Ashley,66,Male,35.9,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00075,Gabriella Shelton,63,Female,34.5,Active,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00076,James Elliott,49,Male,36.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00077,Julia Williams,78,Female,25.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00078,James Walton,64,Male,32.8,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00079,Richard Pearson,60,Male,19.6,Never,Medicare,Essential Hypertension,I10
+PJ-00080,Brittany Martinez,49,Female,31.5,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00081,Randall Jackson,60,Male,27.2,Active,Commercial,Chronic Kidney Disease,N18.3
+PJ-00082,Ashley Johnson,76,Female,32.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00083,Michael Burton,49,Male,32.4,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00084,William Patton,51,Male,29.2,Never,Commercial,Essential Hypertension,I10
+PJ-00085,Gloria Atkinson,64,Female,40.1,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00086,Madison Poole,50,Female,24.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00087,Kimberly Webb,60,Female,23.9,Never,Commercial,Essential Hypertension,I10
+PJ-00088,Sandra Miller,40,Female,24.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00089,Sarah White,65,Female,37.4,Never,Commercial,Essential Hypertension,I10
+PJ-00090,Donald Smith,66,Male,32.7,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00091,Melissa Brewer,28,Female,22.1,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00092,Connie Holt,24,Female,35.7,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00093,Jeffery Reese,62,Male,33.2,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00094,Bryan Herrera,67,Male,30.5,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00095,Kelly Campbell,36,Female,28.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00096,Joseph Hill,88,Male,27.1,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00097,Laura Harrison,43,Female,36.9,Former,Uninsured,Essential Hypertension,I10
+PJ-00098,Todd Woods,85,Male,39.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00099,Mark Brown,41,Male,28.4,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00100,Bryan Duran,48,Male,22.8,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00101,Elizabeth Oliver,59,Female,29.4,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00102,Daniel Clark,72,Male,37.0,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00103,Eddie Hall,36,Male,22.9,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00104,Michael Bradshaw,46,Male,22.8,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00105,Mario Guerrero,79,Male,31.1,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00106,Maria Kerr,49,Female,42.1,Former,Medicaid,Essential Hypertension,I10
+PJ-00107,Elizabeth Curry,27,Female,22.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00108,Melissa Bender,39,Female,20.8,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00109,Amanda Reynolds,69,Female,31.8,Former,Medicare,Essential Hypertension,I10
+PJ-00110,Trevor Key,59,Male,39.4,Never,Commercial,Essential Hypertension,I10
+PJ-00111,Julie Pearson,43,Female,22.8,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00112,Meagan Hodge,66,Female,28.8,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00113,Joshua Gibson,54,Male,35.1,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00114,Mary Daniels,57,Female,23.3,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00115,Dalton Dunn,52,Male,32.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00116,Bryan Dudley,53,Male,26.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00117,Wendy Durham,48,Female,35.4,Never,Commercial,Essential Hypertension,I10
+PJ-00118,Katrina Hill,38,Female,28.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00119,Jordan Suarez,59,Male,28.8,Never,Commercial,Essential Hypertension,I10
+PJ-00120,Samantha Campbell,36,Female,34.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00121,John Hernandez,30,Male,25.6,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00122,Kenneth Hall,62,Male,29.5,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00123,Veronica Simpson,49,Female,37.4,Never,Commercial,Essential Hypertension,I10
+PJ-00124,Sergio Sawyer,42,Male,38.7,Never,Commercial,Essential Hypertension,I10
+PJ-00125,Matthew Moore,56,Male,43.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00126,Melissa Santos,45,Female,33.5,Never,Medicaid,Essential Hypertension,I10
+PJ-00127,Olivia Brennan,69,Female,32.1,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00128,Nicole Hamilton,41,Female,28.9,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00129,Angel Flynn,72,Male,32.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00130,Kim Knight,65,Female,30.4,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00131,Julia King,53,Female,26.4,Never,Commercial,Essential Hypertension,I10
+PJ-00132,Brooke Alexander,30,Female,24.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00133,Jeff Wright,83,Male,28.7,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00134,Karen Young,42,Female,21.6,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00135,Willie Phillips,34,Male,22.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00136,Denise Knight,65,Female,26.0,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00137,Donna Lindsey,67,Female,26.5,Active,Commercial,Essential Hypertension,I10
+PJ-00138,Michelle Hopkins,54,Female,41.2,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00139,Ellen Alexander,43,Female,29.4,Never,Commercial,Essential Hypertension,I10
+PJ-00140,Nicole Thompson,58,Female,30.8,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00141,David Summers,46,Male,22.9,Never,Commercial,Essential Hypertension,I10
+PJ-00142,Tonya Taylor,62,Female,30.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00143,Regina Diaz,44,Female,27.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00144,Lauren Carson,68,Female,33.2,Never,Medicaid,Essential Hypertension,I10
+PJ-00145,Thomas Walker,63,Male,19.5,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00146,Jason Taylor,36,Male,43.9,Active,Medicaid,Congestive Heart Failure,I50.9
+PJ-00147,Chad Chavez,71,Male,36.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00148,Patrick Moore,45,Male,37.8,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00149,Jason Lynn,53,Male,38.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00150,Scott Garcia,46,Male,40.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00151,Barbara Charles,39,Female,33.2,Never,Commercial,Essential Hypertension,I10
+PJ-00152,Alex Buchanan,48,Male,37.3,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00153,Cindy Kane,79,Female,26.4,Former,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00154,Carlos King,31,Male,29.4,Former,Commercial,Essential Hypertension,I10
+PJ-00155,Alexis Tyler,89,Female,27.7,Former,Medicare,Essential Hypertension,I10
+PJ-00156,Joseph Reese,71,Male,34.2,Never,Medicare,Essential Hypertension,I10
+PJ-00157,Kathy Dougherty,53,Female,33.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00158,Jimmy Maynard,89,Male,33.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00159,Michael Henry,76,Male,32.3,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00160,Madeline Kelley,43,Female,29.2,Former,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00161,Lisa Garcia,44,Female,36.2,Active,Commercial,Essential Hypertension,I10
+PJ-00162,Jocelyn Perez,45,Female,34.5,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00163,James Hernandez,72,Male,35.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00164,Robert Hawkins,56,Male,37.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00165,Heather Ortega,66,Female,28.6,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00166,Kenneth Lewis,35,Male,32.7,Active,Commercial,Essential Hypertension,I10
+PJ-00167,Pamela Andrews,26,Female,27.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00168,Robert Austin,22,Male,24.8,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00169,Ronald Adams,59,Male,40.0,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00170,Gina Smith,57,Female,28.2,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00171,Nichole Lewis,54,Female,34.2,Never,Commercial,Essential Hypertension,I10
+PJ-00172,Latoya Miller,44,Female,32.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00173,Mary Tucker,41,Female,27.2,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00174,John Estrada,48,Male,33.5,Active,Commercial,Essential Hypertension,I10
+PJ-00175,Elizabeth Clark,62,Female,29.0,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00176,Paul Thompson,59,Male,36.0,Former,Commercial,Essential Hypertension,I10
+PJ-00177,Renee Jones,73,Female,39.8,Active,Medicaid,Congestive Heart Failure,I50.9
+PJ-00178,Scott Johnston,51,Male,32.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00179,Frederick Solis,34,Male,22.0,Former,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00180,Brandon Richard,59,Male,22.3,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00181,Gerald Cook,68,Male,23.3,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00182,Sabrina Briggs,33,Female,17.5,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00183,Craig Morrison,81,Male,31.2,Never,Commercial,Essential Hypertension,I10
+PJ-00184,Patricia Snyder,62,Female,40.8,Active,Commercial,Essential Hypertension,I10
+PJ-00185,Madison Weber,58,Female,39.8,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00186,Eric Hill,55,Male,42.5,Never,Commercial,Essential Hypertension,I10
+PJ-00187,Jesse Brown,57,Male,31.9,Never,Commercial,Essential Hypertension,I10
+PJ-00188,Lucas Hunter,50,Male,28.0,Former,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00189,Robert Pearson,42,Male,35.2,Former,Commercial,Essential Hypertension,I10
+PJ-00190,Stephanie Cooper,68,Female,27.2,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00191,Jeffrey Gonzales,43,Male,22.6,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00192,George Harper,46,Male,32.0,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00193,Anna Gregory,45,Female,35.2,Never,Commercial,Essential Hypertension,I10
+PJ-00194,Shane Cook,76,Male,24.4,Never,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00195,Kurt Hurley,36,Male,20.1,Active,Commercial,Essential Hypertension,I10
+PJ-00196,Nancy Jennings,25,Female,38.5,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00197,Christopher Lewis,49,Male,21.6,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00198,Sandy Stephenson,72,Female,27.5,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00199,Rhonda Martin,44,Female,25.4,Former,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00200,David Wallace,50,Male,28.0,Active,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00201,Emily Stokes,56,Female,31.7,Never,Medicaid,Essential Hypertension,I10
+PJ-00202,Travis Joyce,79,Male,28.5,Never,Medicare,Essential Hypertension,I10
+PJ-00203,Robert Solis,59,Male,35.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00204,Justin Garcia,50,Male,30.0,Former,Commercial,Essential Hypertension,I10
+PJ-00205,Don Whitehead,33,Male,25.2,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00206,Jessica Potts,41,Female,24.3,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00207,Alyssa Brown,50,Female,41.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00208,Ryan Santos,65,Male,38.2,Former,Medicaid,Essential Hypertension,I10
+PJ-00209,Michael West,38,Male,29.2,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00210,Monica Rose,44,Female,33.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00211,Joyce Rodriguez,34,Female,22.5,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00212,Linda Smith,30,Female,30.0,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00213,Jessica Mendez,76,Female,34.9,Never,Medicaid,Essential Hypertension,I10
+PJ-00214,Barry Fox,69,Male,37.6,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00215,Veronica King,69,Female,24.3,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00216,Raymond Moss,32,Male,31.7,Never,Commercial,Essential Hypertension,I10
+PJ-00217,Robin Thompson,67,Female,29.6,Active,Commercial,Essential Hypertension,I10
+PJ-00218,Robert Brown,85,Male,27.2,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00219,Amanda Mahoney,85,Female,29.7,Never,Commercial,Essential Hypertension,I10
+PJ-00220,Heather Norman,24,Female,28.1,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00221,Jacob Preston,42,Male,29.1,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00222,Stephanie Hughes,57,Female,28.8,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00223,Kathleen Glass,75,Female,19.9,Former,Medicare,Healthy / Routine Care,Z00.0
+PJ-00224,Robert Acosta,39,Male,34.3,Active,Medicaid,Essential Hypertension,I10
+PJ-00225,Erica Miller,89,Female,30.0,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00226,Michael Bell,89,Male,33.0,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00227,Zachary Hill,57,Male,28.7,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00228,Michael Cisneros,66,Male,38.6,Never,Medicare,Essential Hypertension,I10
+PJ-00229,Austin Osborne,70,Male,27.1,Never,Commercial,Essential Hypertension,I10
+PJ-00230,Jacob Hines,72,Male,33.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00231,Marie Wright,67,Female,38.1,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00232,Jasmine Hoffman,56,Female,30.6,Active,Medicaid,Type 2 Diabetes,E11.9
+PJ-00233,Katherine Martinez,69,Female,24.1,Never,Medicare,Essential Hypertension,I10
+PJ-00234,Anita Fleming,38,Female,23.5,Former,Commercial,Essential Hypertension,I10
+PJ-00235,Steven York,41,Male,36.8,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00236,Rachel Johnson,48,Female,35.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00237,Eric Key,69,Male,31.0,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00238,Valerie Day,61,Female,25.0,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00239,Penny Bowman,39,Female,22.5,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00240,Becky Hernandez,47,Female,27.9,Former,Uninsured,Essential Hypertension,I10
+PJ-00241,Stephanie Singleton,24,Female,28.5,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00242,Calvin Turner,85,Male,35.1,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00243,Matthew Le,43,Male,28.5,Never,Commercial,Essential Hypertension,I10
+PJ-00244,Martin Ray,67,Male,39.6,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00245,Lori Roberts,41,Female,23.4,Never,Uninsured,Chronic Kidney Disease,N18.3
+PJ-00246,Kari Harris,75,Female,30.7,Never,Uninsured,Essential Hypertension,I10
+PJ-00247,Vanessa Anderson,50,Female,39.0,Never,Uninsured,Essential Hypertension,I10
+PJ-00248,Danielle Davis,52,Female,33.3,Former,Commercial,Essential Hypertension,I10
+PJ-00249,Danielle Grimes,63,Female,30.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00250,Kathleen Robertson,62,Female,30.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00251,Tracy Lewis,69,Female,28.2,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00252,John Herrera,58,Male,24.6,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00253,Holly Morales,65,Female,31.5,Active,Commercial,Essential Hypertension,I10
+PJ-00254,Douglas Hays,67,Male,34.9,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00255,Robert Morgan,28,Male,35.7,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00256,John Bryant,51,Male,35.1,Never,Medicaid,Essential Hypertension,I10
+PJ-00257,Wanda Stevenson,64,Female,33.3,Former,Medicaid,Essential Hypertension,I10
+PJ-00258,Kim Erickson,57,Female,28.6,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00259,Michael Whitney,39,Male,26.6,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00260,Alyssa Wells,70,Female,30.6,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00261,Christopher Fuller,53,Male,27.2,Former,Medicaid,Essential Hypertension,I10
+PJ-00262,Brian Smith,58,Male,32.1,Former,Commercial,Essential Hypertension,I10
+PJ-00263,Tami Salas,57,Female,37.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00264,Matthew Fox,47,Male,16.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00265,Carrie Barr,83,Female,31.0,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00266,Lisa Lee,54,Female,39.8,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00267,Valerie Evans,21,Female,25.9,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00268,Timothy Pope,55,Male,32.3,Never,Commercial,Essential Hypertension,I10
+PJ-00269,Veronica Cardenas,49,Female,32.5,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00270,Hannah Ramos,32,Female,20.1,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00271,Karen Harris,42,Female,39.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00272,David Santiago,62,Male,38.0,Never,Commercial,Essential Hypertension,I10
+PJ-00273,Brian Townsend,19,Male,26.3,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00274,Joshua Hickman,42,Male,34.1,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00275,Tracey Morris,79,Female,26.7,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00276,Christopher Khan,51,Male,29.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00277,Jon Zuniga,58,Male,28.2,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00278,Alexandra Bradley,28,Female,25.7,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00279,Victoria Mitchell,41,Female,25.8,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00280,John Lee,19,Male,23.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00281,David Lopez,39,Male,28.8,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00282,Steven Wilcox,50,Male,41.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00283,Danielle Green,69,Female,33.4,Former,Medicare,Essential Hypertension,I10
+PJ-00284,Elizabeth Sharp,53,Female,31.3,Never,Uninsured,Essential Hypertension,I10
+PJ-00285,Elizabeth Sullivan,62,Female,35.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00286,Eric Wilson,49,Male,27.8,Never,Uninsured,Essential Hypertension,I10
+PJ-00287,Nicole Obrien,50,Female,38.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00288,Matthew Robinson,19,Male,16.5,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00289,Angela Griffin,30,Female,22.7,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00290,Brittany Murphy,58,Female,39.3,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00291,Ann Dixon,67,Female,29.1,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00292,Amy Ford,53,Female,45.3,Never,Commercial,Essential Hypertension,I10
+PJ-00293,Amber Cooper,35,Female,29.8,Never,Commercial,Essential Hypertension,I10
+PJ-00294,Andrea Peck,56,Female,30.9,Former,Commercial,Essential Hypertension,I10
+PJ-00295,Veronica Brewer,48,Female,21.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00296,Willie Reyes,48,Male,28.7,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00297,Mary Ryan,71,Female,22.4,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00298,Joseph Luna,80,Male,21.7,Former,Commercial,Essential Hypertension,I10
+PJ-00299,Joshua Patel,55,Male,39.8,Former,Medicaid,Essential Hypertension,I10
+PJ-00300,Neil Rodriguez,42,Male,41.0,Never,Medicaid,Essential Hypertension,I10
+PJ-00301,Stephen Smith,44,Male,37.3,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00302,Patrick Morales,83,Male,37.0,Former,Medicare,Essential Hypertension,I10
+PJ-00303,Anthony Gordon,19,Male,17.3,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00304,Monique Flores,61,Female,25.3,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00305,Matthew Walker,37,Male,23.5,Former,Commercial,Essential Hypertension,I10
+PJ-00306,Shawn Buck,84,Male,28.8,Active,Uninsured,Chronic Kidney Disease,N18.3
+PJ-00307,Todd Powers,73,Male,28.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00308,Paul Wells,53,Male,41.8,Former,Medicaid,Essential Hypertension,I10
+PJ-00309,Tracy Grant,33,Female,27.7,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00310,Anna Hardy,50,Female,22.8,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00311,Shane Lopez,39,Male,37.1,Former,Commercial,Essential Hypertension,I10
+PJ-00312,Sean Cook,47,Male,35.3,Former,Commercial,Essential Hypertension,I10
+PJ-00313,Bruce Key,22,Male,32.1,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00314,Juan Rowe,64,Male,34.2,Former,Commercial,Essential Hypertension,I10
+PJ-00315,Kathleen Garcia,36,Female,28.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00316,Jacqueline Gutierrez,58,Female,21.9,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00317,Jennifer Hernandez,38,Female,24.8,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00318,Michael Scott,74,Male,28.9,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00319,Robert Jackson,44,Male,27.7,Never,Medicare,Healthy / Routine Care,Z00.0
+PJ-00320,Kimberly May,37,Female,29.7,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00321,Crystal Mann,58,Female,22.7,Active,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00322,Lisa Estrada,55,Female,34.3,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00323,Adam Moreno,64,Male,34.8,Former,Commercial,Essential Hypertension,I10
+PJ-00324,Robin Craig,64,Female,39.0,Former,Commercial,Essential Hypertension,I10
+PJ-00325,Anne Hernandez,30,Female,27.6,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00326,Debra Sanders,83,Female,40.5,Never,Medicare,Essential Hypertension,I10
+PJ-00327,Melinda Abbott,44,Female,21.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00328,Brandon Gray,48,Male,29.2,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00329,Jonathan Hamilton,68,Male,28.7,Never,Medicare,Essential Hypertension,I10
+PJ-00330,Christine Parrish,62,Female,26.1,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00331,Tanya Edwards,24,Female,27.8,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00332,Michelle Sanders,45,Female,33.1,Never,Commercial,Essential Hypertension,I10
+PJ-00333,Sandra Price,34,Female,28.0,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00334,Virginia Ramsey,47,Female,30.5,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00335,Randy Friedman,49,Male,31.4,Never,Medicaid,Essential Hypertension,I10
+PJ-00336,Willie Henry,50,Male,29.8,Former,Uninsured,Type 2 Diabetes,E11.9
+PJ-00337,Mary Miller,70,Female,30.7,Active,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00338,Mark Singh,31,Male,25.0,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00339,Ashley Smith,64,Female,33.2,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00340,Allison Gomez,58,Female,29.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00341,Bradley Santana,86,Male,35.7,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00342,Carolyn James,57,Female,36.0,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00343,Amy Hamilton,52,Female,39.8,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00344,Ashley Torres,39,Female,29.7,Never,Commercial,Essential Hypertension,I10
+PJ-00345,Robin Villarreal,56,Female,29.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00346,Theresa Harris,71,Female,30.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00347,Michael Henry,74,Male,39.2,Active,Medicare,Essential Hypertension,I10
+PJ-00348,Brian Elliott,75,Male,25.8,Former,Uninsured,Type 2 Diabetes,E11.9
+PJ-00349,Tiffany Murray,66,Female,34.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00350,Robert Ortiz,37,Male,35.0,Former,Commercial,Essential Hypertension,I10
+PJ-00351,Mike Mccormick,57,Male,31.9,Never,Commercial,Essential Hypertension,I10
+PJ-00352,James Hunter,67,Male,31.9,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00353,Angela Mack,56,Female,26.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00354,William Byrd,56,Male,30.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00355,David Dixon,43,Male,25.2,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00356,Jill Myers,27,Female,24.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00357,Leah Mason,59,Female,36.9,Former,Medicaid,Essential Hypertension,I10
+PJ-00358,Audrey Shepard,37,Female,34.4,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00359,Daniel Webb,70,Male,30.8,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00360,Eric Patrick,33,Male,27.2,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00361,Michael Martin,53,Male,31.6,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00362,Kristin Mullen,71,Female,30.8,Never,Commercial,Essential Hypertension,I10
+PJ-00363,Lisa Gonzalez,49,Female,35.7,Never,Commercial,Essential Hypertension,I10
+PJ-00364,Amy Garcia,57,Female,28.3,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00365,Linda Carr,82,Female,28.8,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00366,Elizabeth Mendez,58,Female,32.5,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00367,Kayla Barnes,66,Female,22.1,Active,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00368,Zachary Peters,33,Male,24.0,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00369,Charles Edwards,73,Male,20.6,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00370,Adam Taylor,45,Male,31.6,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00371,Sara Burns,44,Female,33.0,Former,Commercial,Essential Hypertension,I10
+PJ-00372,Christopher Ellis,54,Male,41.1,Never,Commercial,Essential Hypertension,I10
+PJ-00373,Ashley Wilson,22,Female,27.1,Never,Commercial,Essential Hypertension,I10
+PJ-00374,Samantha Williams,70,Female,33.3,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00375,Joanna Bailey,43,Female,35.0,Former,Medicaid,Essential Hypertension,I10
+PJ-00376,Patricia Young,65,Female,25.4,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00377,Christine Clark,71,Female,39.1,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00378,Donna Adams,89,Female,40.0,Never,Medicare,Essential Hypertension,I10
+PJ-00379,Thomas Riddle,74,Male,30.8,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00380,Sandra Juarez,67,Female,27.0,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00381,Brandon Robertson,75,Male,31.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00382,Garrett Smith,47,Male,36.2,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00383,Arthur Ferguson,50,Male,24.5,Never,Medicaid,Essential Hypertension,I10
+PJ-00384,George Lane,44,Male,27.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00385,Melanie Williams,54,Female,34.5,Former,Commercial,Essential Hypertension,I10
+PJ-00386,Aaron Rubio,40,Male,33.5,Never,Commercial,Essential Hypertension,I10
+PJ-00387,Tasha Hill,56,Female,35.6,Former,Commercial,Essential Hypertension,I10
+PJ-00388,Elizabeth Lyons,45,Female,35.2,Never,Commercial,Essential Hypertension,I10
+PJ-00389,Karen Anderson,61,Female,30.6,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00390,William Henderson,52,Male,35.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00391,Brian Edwards,33,Male,22.3,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00392,Breanna Ayala,62,Female,27.8,Never,Commercial,Essential Hypertension,I10
+PJ-00393,Alejandra Santos,87,Female,20.5,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00394,Shannon Miller,47,Female,28.8,Active,Medicare,Essential Hypertension,I10
+PJ-00395,Tracey Edwards,53,Female,26.1,Never,Uninsured,Congestive Heart Failure,I50.9
+PJ-00396,Lisa Maxwell,83,Female,28.7,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00397,Nicole Phillips,65,Female,25.7,Former,Medicaid,Essential Hypertension,I10
+PJ-00398,Kathleen Rodriguez,42,Female,35.5,Never,Medicaid,Essential Hypertension,I10
+PJ-00399,Taylor Anderson,54,Female,32.0,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00400,Michael Farmer,57,Male,35.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00401,Andrew Brown,67,Male,35.7,Former,Uninsured,Essential Hypertension,I10
+PJ-00402,Jason Miles,37,Male,32.0,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00403,Dalton Morton,69,Male,39.7,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00404,Ruben Becker,60,Male,31.4,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00405,Jeffrey Chavez,75,Male,22.6,Never,Medicare,Essential Hypertension,I10
+PJ-00406,Michael Martin,76,Male,41.9,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00407,Nathan Jackson,60,Male,33.8,Never,Commercial,Essential Hypertension,I10
+PJ-00408,Stephen Wise,69,Male,25.7,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00409,Kenneth Jones,76,Male,32.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00410,Ashley Berry,25,Female,28.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00411,Katie Williams,58,Female,36.5,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00412,Brittany Velazquez,35,Female,33.3,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00413,Jason Morris,67,Male,33.1,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00414,Blake Watson,59,Male,25.1,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00415,Regina Jarvis,48,Female,28.3,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00416,Curtis Elliott,78,Male,35.2,Never,Medicare,Essential Hypertension,I10
+PJ-00417,Kevin Snyder,51,Male,29.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00418,Jason Hall,57,Male,32.8,Never,Medicaid,Essential Hypertension,I10
+PJ-00419,Mary Sweeney,68,Female,28.4,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00420,Zachary Dawson,59,Male,34.5,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00421,Mercedes Watson,28,Female,24.1,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00422,Angela Davis,54,Female,35.7,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00423,Debbie Edwards,89,Female,43.4,Never,Medicare,Essential Hypertension,I10
+PJ-00424,Emily Nelson,40,Female,27.1,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00425,Carly Owens,61,Female,30.8,Never,Commercial,Essential Hypertension,I10
+PJ-00426,Derek Wilson,84,Male,32.5,Never,Medicare,Essential Hypertension,I10
+PJ-00427,Michael Williams,46,Male,30.7,Never,Medicaid,Essential Hypertension,I10
+PJ-00428,Henry Palmer,23,Male,19.5,Never,Medicare,Healthy / Routine Care,Z00.0
+PJ-00429,Wanda Johnson,70,Female,25.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00430,Joel Lara,62,Male,31.0,Former,Commercial,Essential Hypertension,I10
+PJ-00431,Carlos Colon,67,Male,37.4,Active,Medicare,Essential Hypertension,I10
+PJ-00432,Alex Brown,67,Male,25.5,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00433,Erin Williams,48,Female,35.0,Former,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00434,Michael Thompson,69,Male,28.5,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00435,Amanda Harvey,50,Female,22.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00436,Amy Ramirez,29,Female,39.6,Active,Uninsured,Type 2 Diabetes,E11.9
+PJ-00437,Joseph Mccoy,53,Male,30.8,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00438,Kari Durham,52,Female,32.1,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00439,Richard Brown,58,Male,32.9,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00440,Deborah Velasquez,32,Female,31.2,Never,Commercial,Essential Hypertension,I10
+PJ-00441,Sarah Salinas,71,Female,42.1,Never,Commercial,Essential Hypertension,I10
+PJ-00442,Christopher Watkins,43,Male,21.9,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00443,Alfred Haynes,73,Male,30.2,Never,Commercial,Essential Hypertension,I10
+PJ-00444,Katherine Parker,32,Female,26.3,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00445,Daniel Fox,41,Male,29.6,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00446,Bianca Love,38,Female,31.7,Never,Medicaid,Essential Hypertension,I10
+PJ-00447,Alex Willis,46,Male,21.3,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00448,Shannon Yu,37,Female,27.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00449,Elizabeth Taylor,54,Female,28.0,Never,Commercial,Essential Hypertension,I10
+PJ-00450,Tyler Banks,46,Male,36.0,Never,Commercial,Essential Hypertension,I10
+PJ-00451,Leah Thompson,19,Female,24.5,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00452,Cameron Daniel,67,Male,34.0,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00453,Lance Mccall,55,Male,27.6,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00454,Nichole Young,58,Female,31.3,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00455,Stacie Griffin,58,Female,20.8,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00456,Dawn Rodriguez,54,Female,32.7,Active,Uninsured,Essential Hypertension,I10
+PJ-00457,Tracy Wilkerson,69,Female,27.9,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00458,Sharon Curtis,30,Female,25.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00459,Sarah Phillips,57,Female,31.8,Never,Uninsured,Essential Hypertension,I10
+PJ-00460,Nicholas Payne,41,Male,31.5,Active,Medicaid,Essential Hypertension,I10
+PJ-00461,Amanda Dunlap,44,Female,39.4,Never,Uninsured,Congestive Heart Failure,I50.9
+PJ-00462,Nicholas Baker,40,Male,37.2,Former,Commercial,Essential Hypertension,I10
+PJ-00463,Kenneth Larsen,41,Male,30.1,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00464,Kyle Gonzalez,79,Male,24.2,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00465,Sarah Parker,42,Female,32.8,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00466,Kimberly Lopez,19,Female,29.3,Never,Medicare,Essential Hypertension,I10
+PJ-00467,Courtney Adams,45,Female,25.0,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00468,Angelica Cooper,64,Female,32.8,Never,Commercial,Essential Hypertension,I10
+PJ-00469,Sabrina Barnes,53,Female,38.4,Former,Commercial,Essential Hypertension,I10
+PJ-00470,Angela Orr,47,Female,27.5,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00471,Barbara Todd,82,Female,35.7,Never,Medicare,Essential Hypertension,I10
+PJ-00472,Rhonda Martinez,46,Female,24.5,Former,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00473,Yolanda Burton,57,Female,27.3,Former,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00474,Thomas Jones,53,Male,24.0,Never,Medicaid,Essential Hypertension,I10
+PJ-00475,Desiree Ellis,19,Female,27.5,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00476,Jason Hernandez,63,Male,22.1,Never,Uninsured,Chronic Kidney Disease,N18.3
+PJ-00477,Kristine Garcia,51,Female,31.9,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00478,Desiree Thomas,71,Female,35.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00479,Patrick Mccall,43,Male,26.2,Never,Commercial,Essential Hypertension,I10
+PJ-00480,Michael Garcia,49,Male,31.5,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00481,Jessica Petersen,30,Female,17.1,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00482,Matthew Lopez,85,Male,37.5,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00483,Sean Nicholson,57,Male,35.0,Former,Commercial,Essential Hypertension,I10
+PJ-00484,Sarah Suarez,19,Female,22.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00485,Cheryl Whitaker,70,Female,31.1,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00486,Jonathan Reid,72,Male,28.3,Active,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00487,Sheila Matthews,83,Female,38.6,Never,Medicaid,Essential Hypertension,I10
+PJ-00488,Michael Mitchell,71,Male,25.4,Active,Commercial,Chronic Kidney Disease,N18.3
+PJ-00489,Jason Smith,55,Male,25.8,Never,Uninsured,Chronic Kidney Disease,N18.3
+PJ-00490,Dawn Trujillo,71,Female,39.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00491,Darlene Owens,44,Female,26.2,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00492,Sarah Brooks,73,Female,35.5,Former,Commercial,Essential Hypertension,I10
+PJ-00493,Ashley Brown,86,Female,35.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00494,Michelle Stafford,88,Female,35.8,Active,Medicare,Essential Hypertension,I10
+PJ-00495,Rebekah Greene,71,Female,31.6,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00496,Zachary Green,29,Male,21.1,Active,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00497,Andrew Erickson,82,Male,25.9,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00498,Richard Knox,80,Male,33.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00499,Sara Walter,89,Female,35.4,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00500,Phillip White,29,Male,21.1,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00501,Henry Garner,51,Male,28.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00502,David Carter,44,Male,32.5,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00503,Benjamin Preston,42,Male,40.1,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00504,Brenda Gonzalez,40,Female,27.0,Former,Medicare,Essential Hypertension,I10
+PJ-00505,Eugene Baldwin,84,Male,27.0,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00506,Philip Jackson,59,Male,25.9,Never,Uninsured,Essential Hypertension,I10
+PJ-00507,Jennifer Sanford,54,Female,31.0,Never,Commercial,Essential Hypertension,I10
+PJ-00508,Erica Whitaker,50,Female,29.1,Former,Uninsured,Essential Hypertension,I10
+PJ-00509,Betty Reyes,61,Female,29.1,Former,Medicare,Essential Hypertension,I10
+PJ-00510,Earl Luna,19,Male,23.4,Never,Medicare,Healthy / Routine Care,Z00.0
+PJ-00511,George Barron,88,Male,31.5,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00512,Tamara Powell,53,Female,36.1,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00513,Christopher Richardson,19,Male,23.3,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00514,Dawn Nichols,68,Female,27.2,Never,Medicare,Essential Hypertension,I10
+PJ-00515,Jason James,68,Male,32.1,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00516,Lorraine Turner,41,Female,34.6,Former,Commercial,Essential Hypertension,I10
+PJ-00517,Ashley Higgins,44,Female,33.5,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00518,Kelly Harris,56,Female,30.2,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00519,Megan Meadows,52,Female,31.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00520,Ann Hunt,53,Female,32.5,Active,Medicaid,Type 2 Diabetes,E11.9
+PJ-00521,John Garcia,57,Male,36.9,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00522,Nancy Davis,54,Female,25.6,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00523,Jeffrey Howell,51,Male,34.2,Active,Commercial,Essential Hypertension,I10
+PJ-00524,Jennifer Rivers,26,Female,16.5,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00525,Sarah Marsh,70,Female,29.8,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00526,Caitlin Perry,67,Female,33.0,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00527,Sara Mcpherson,61,Female,21.0,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00528,Ernest Bush,59,Male,26.0,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00529,Patricia Ray,77,Female,27.1,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00530,Anna Stanley,19,Female,20.4,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00531,Haley Rhodes,52,Female,27.6,Never,Medicaid,Essential Hypertension,I10
+PJ-00532,Christopher Allison,85,Male,31.8,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00533,Wayne Williams,52,Male,29.8,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00534,Jillian Wilson,57,Female,28.2,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00535,Lindsey Montgomery,80,Female,31.4,Never,Medicare,Essential Hypertension,I10
+PJ-00536,Megan Clements,42,Female,22.8,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00537,Jesse Castro,70,Male,23.2,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00538,Sandra Brandt,49,Female,31.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00539,Charles Love,46,Male,28.4,Never,Medicaid,Essential Hypertension,I10
+PJ-00540,Chelsea Conrad,45,Female,34.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00541,Ashley Perry,68,Female,31.3,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00542,Jerry Barrett,62,Male,28.9,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00543,Amber Mcconnell,58,Female,36.3,Never,Commercial,Essential Hypertension,I10
+PJ-00544,Kenneth Cross,59,Male,26.7,Never,Commercial,Essential Hypertension,I10
+PJ-00545,William Moon,70,Male,23.7,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00546,Nicole Evans,74,Female,28.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00547,Lori Roberts,67,Female,41.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00548,Kathy Benson,65,Female,33.7,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00549,Jennifer Adkins,52,Female,34.1,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00550,Brianna Santiago,58,Female,37.0,Never,Commercial,Essential Hypertension,I10
+PJ-00551,Donna King,73,Female,30.3,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00552,Andrew Cervantes,37,Male,40.4,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00553,Robert Roberts,33,Male,32.9,Former,Medicaid,Essential Hypertension,I10
+PJ-00554,Juan Smith,80,Male,38.0,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00555,Sheila Greer,63,Female,23.1,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00556,Michael Holland,70,Male,28.7,Never,Medicare,Essential Hypertension,I10
+PJ-00557,Elizabeth Thompson,59,Female,30.8,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00558,Kristin Anderson,58,Female,23.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00559,Erica Williams,58,Female,40.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00560,John Armstrong,54,Male,32.2,Active,Commercial,Essential Hypertension,I10
+PJ-00561,Catherine Jones,28,Female,25.2,Never,Medicare,Healthy / Routine Care,Z00.0
+PJ-00562,Anna Walker,53,Female,31.3,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00563,Rodney Zavala,59,Male,23.7,Former,Medicare,Healthy / Routine Care,Z00.0
+PJ-00564,Jeremy Conway,89,Male,39.6,Never,Medicare,Essential Hypertension,I10
+PJ-00565,Melanie Flores,57,Female,31.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00566,Samantha Brooks,53,Female,23.6,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00567,Amanda Villanueva,57,Female,28.0,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00568,Adam Jones,79,Male,26.0,Never,Medicare,Essential Hypertension,I10
+PJ-00569,Brian Medina,45,Male,30.2,Never,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00570,Christian Stevens,67,Male,27.7,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00571,Kristin Andrews,47,Female,30.4,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00572,Michael Nichols,81,Male,27.5,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00573,Rachel Turner,74,Female,33.4,Never,Medicare,Essential Hypertension,I10
+PJ-00574,Jennifer Guerrero,75,Female,24.0,Active,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00575,Robert Gardner,42,Male,24.5,Former,Medicaid,Essential Hypertension,I10
+PJ-00576,Robert Daniel,73,Male,32.3,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00577,Justin Martinez,69,Male,38.8,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00578,Gregg Gutierrez,67,Male,28.6,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00579,Cheyenne White,60,Female,32.8,Never,Commercial,Essential Hypertension,I10
+PJ-00580,Joshua Roberts,45,Male,26.0,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00581,Manuel Mccullough,46,Male,28.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00582,Elizabeth Silva,64,Female,29.7,Never,Uninsured,Essential Hypertension,I10
+PJ-00583,Daniel Singh,54,Male,22.3,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00584,Ian Torres,74,Male,37.5,Active,Medicare,Essential Hypertension,I10
+PJ-00585,Brenda Ryan,55,Female,29.3,Active,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00586,Andre Perkins,88,Male,36.9,Active,Commercial,Essential Hypertension,I10
+PJ-00587,Yvonne Kennedy,53,Female,34.5,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00588,Patricia Quinn,35,Female,34.2,Never,Medicaid,Essential Hypertension,I10
+PJ-00589,Jonathan Bates,54,Male,28.0,Never,Uninsured,Essential Hypertension,I10
+PJ-00590,Jill White,59,Female,35.6,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00591,Katherine Brown,45,Female,27.0,Active,Commercial,Essential Hypertension,I10
+PJ-00592,Jesse Williams,44,Male,23.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00593,Fred Padilla,68,Male,45.1,Never,Medicare,Essential Hypertension,I10
+PJ-00594,Kimberly Thompson,71,Female,21.3,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00595,Susan Black,79,Female,28.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00596,Kathryn Taylor,37,Female,33.7,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00597,Mitchell Wilson,61,Male,28.2,Active,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00598,Karen Clark,48,Female,27.7,Active,Commercial,Essential Hypertension,I10
+PJ-00599,Laura Martin,61,Female,35.4,Former,Commercial,Essential Hypertension,I10
+PJ-00600,Tina Greene,29,Female,21.6,Active,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00601,Nathan Stanley,61,Male,24.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00602,Carolyn Greer,79,Female,25.8,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00603,Misty Cooper,45,Female,31.7,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00604,Brian Harris,83,Male,22.8,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00605,Anne Alvarez,44,Female,31.2,Former,Uninsured,Essential Hypertension,I10
+PJ-00606,Bruce Olson,65,Male,20.9,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00607,Patricia Banks,75,Female,33.5,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00608,Dave Lang,72,Male,25.0,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00609,Michael Davis,70,Male,31.2,Former,Medicare,Essential Hypertension,I10
+PJ-00610,Diane Mcdowell,42,Female,19.2,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00611,Mary Watts,53,Female,33.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00612,Marisa King,38,Female,29.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00613,Jennifer Bowers,54,Female,33.3,Never,Commercial,Essential Hypertension,I10
+PJ-00614,Dawn Parker,77,Female,41.6,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00615,Jeremy Lyons,66,Male,30.3,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00616,Gina Pierce,56,Female,34.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00617,Charles Frost,54,Male,28.4,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00618,Amy Walker,78,Female,23.4,Former,Commercial,Essential Hypertension,I10
+PJ-00619,Lisa Meyer,36,Female,32.8,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00620,Robert Mitchell,49,Male,34.2,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00621,David Smith,43,Male,37.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00622,James Willis,73,Male,25.0,Never,Medicare,Essential Hypertension,I10
+PJ-00623,Suzanne Bailey,54,Female,28.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00624,Debbie Russell,32,Female,30.5,Former,Medicaid,Essential Hypertension,I10
+PJ-00625,Regina Frye,52,Female,36.2,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00626,Melissa Church,36,Female,32.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00627,Jimmy Murray,37,Male,31.8,Active,Commercial,Essential Hypertension,I10
+PJ-00628,Megan Hall,77,Female,36.7,Never,Commercial,Essential Hypertension,I10
+PJ-00629,Ronnie Wright,64,Male,23.5,Active,Commercial,Chronic Kidney Disease,N18.3
+PJ-00630,Heather Shannon,20,Female,26.2,Never,Uninsured,Essential Hypertension,I10
+PJ-00631,Nancy Salas,86,Female,33.1,Never,Medicare,Essential Hypertension,I10
+PJ-00632,Ashley Mora,38,Female,26.9,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00633,Matthew Austin,59,Male,25.5,Former,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00634,Victoria Prince,35,Female,38.9,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00635,Daniel Ray,34,Male,20.9,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00636,Rebecca Mendoza,37,Female,21.5,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00637,William Wolfe,19,Male,21.1,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00638,Michael Smith,62,Male,32.2,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00639,Debbie Dunn,19,Female,28.0,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00640,Lisa Diaz,23,Female,29.6,Former,Uninsured,Chronic Kidney Disease,N18.3
+PJ-00641,Sarah Ramirez,53,Female,32.9,Never,Medicaid,Essential Hypertension,I10
+PJ-00642,Crystal Garcia,61,Female,28.7,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00643,Charles Haley,61,Male,41.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00644,Kathryn Cowan,32,Female,30.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00645,Richard Evans,42,Male,43.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00646,Michael Brown,51,Male,24.1,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00647,Timothy Scott,65,Male,24.0,Former,Medicare,Essential Hypertension,I10
+PJ-00648,Tracey Gonzalez,37,Female,35.3,Former,Commercial,Essential Hypertension,I10
+PJ-00649,Katherine Doyle,46,Female,31.4,Never,Commercial,Essential Hypertension,I10
+PJ-00650,Brianna Jackson,82,Female,31.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00651,Benjamin Martin,75,Male,36.7,Active,Medicare,Essential Hypertension,I10
+PJ-00652,Jeremy Roy,59,Male,38.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00653,Jason White,58,Male,33.6,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00654,Carol Garcia,46,Female,35.6,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00655,Allison Sanders,60,Female,17.8,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00656,Mary Mcclure,70,Female,26.5,Never,Medicare,Essential Hypertension,I10
+PJ-00657,Bonnie Roberson,84,Female,38.4,Never,Commercial,Essential Hypertension,I10
+PJ-00658,John Proctor,25,Male,25.8,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00659,Mark Fields,51,Male,32.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00660,Regina Ramos,41,Female,35.9,Never,Commercial,Essential Hypertension,I10
+PJ-00661,Ryan Cooper,79,Male,34.5,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00662,Crystal Smith,45,Female,29.5,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00663,Omar Price,70,Male,23.9,Former,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00664,Rhonda Cohen,48,Female,28.5,Never,Commercial,Essential Hypertension,I10
+PJ-00665,Catherine Roberts,68,Female,30.5,Former,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00666,Chelsea Smith,63,Female,32.8,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00667,Ashley Adams,67,Female,32.6,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00668,Johnny Peterson,87,Male,24.1,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00669,John Moody,64,Male,32.9,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00670,Corey Skinner,47,Male,27.4,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00671,Jessica Rojas,89,Female,33.2,Never,Medicare,Essential Hypertension,I10
+PJ-00672,Melanie Collins,62,Female,32.3,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00673,Mark Gonzalez,42,Male,26.3,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00674,Mark Nguyen,62,Male,31.7,Former,Medicaid,Essential Hypertension,I10
+PJ-00675,Rachel Smith,46,Female,43.3,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00676,Brooke Davis,60,Female,28.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00677,Matthew Miles,33,Male,18.0,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00678,Crystal Holden,35,Female,32.7,Never,Commercial,Essential Hypertension,I10
+PJ-00679,Cheryl Norris,67,Female,32.0,Former,Commercial,Essential Hypertension,I10
+PJ-00680,Elizabeth Terry,60,Female,31.7,Never,Commercial,Essential Hypertension,I10
+PJ-00681,Thomas Spencer,71,Male,24.4,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00682,Dennis Richardson,44,Male,33.3,Never,Commercial,Essential Hypertension,I10
+PJ-00683,Shannon Parsons,41,Female,30.9,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00684,Joshua Hughes,79,Male,32.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00685,Margaret Rodriguez,57,Female,36.1,Former,Medicare,Essential Hypertension,I10
+PJ-00686,Dale Washington,78,Male,31.4,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00687,Meredith Scott,86,Female,35.0,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00688,Bobby Owen,70,Male,17.9,Never,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00689,Michelle Colon,72,Female,30.4,Former,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00690,Brent Hardy,63,Male,27.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00691,David Garrett,47,Male,26.2,Former,Commercial,Essential Hypertension,I10
+PJ-00692,Judy Ortega,74,Female,35.3,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00693,Gail Moore,48,Female,28.7,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00694,William Nguyen,40,Male,36.8,Active,Commercial,Essential Hypertension,I10
+PJ-00695,Lee Hart,37,Male,31.0,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00696,Jillian Sanders,60,Female,37.8,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00697,Elizabeth Walker,67,Female,30.1,Former,Uninsured,Essential Hypertension,I10
+PJ-00698,Desiree Spencer,61,Female,28.4,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00699,Amanda Kelly,52,Female,27.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00700,Roberta Davis,42,Female,29.8,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00701,Kenneth Velez,62,Male,34.5,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00702,Laura Miller,80,Female,35.3,Active,Medicare,Essential Hypertension,I10
+PJ-00703,Sergio Perez,19,Male,25.1,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00704,Adam Waters,33,Male,22.4,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00705,Joshua Hernandez,56,Male,31.7,Never,Commercial,Essential Hypertension,I10
+PJ-00706,Jeremy Larson,47,Male,44.3,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00707,Kenneth Williams,55,Male,30.6,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00708,Matthew Gonzalez,46,Male,30.5,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00709,Frank Glass,45,Male,29.4,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00710,Erica Wheeler,60,Female,27.3,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00711,William Ramos,52,Male,38.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00712,Norma Farrell,89,Female,25.2,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00713,Sean Wilkins,35,Male,33.6,Former,Commercial,Essential Hypertension,I10
+PJ-00714,Daniel Medina,76,Male,35.9,Never,Commercial,Essential Hypertension,I10
+PJ-00715,Monica Thomas,82,Female,23.2,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00716,Mary Williams,70,Female,34.4,Former,Medicaid,Essential Hypertension,I10
+PJ-00717,Luke Brown,36,Male,32.1,Never,Commercial,Essential Hypertension,I10
+PJ-00718,Sharon Smith,42,Female,34.7,Never,Commercial,Essential Hypertension,I10
+PJ-00719,William Garcia,88,Male,20.9,Never,Medicaid,Essential Hypertension,I10
+PJ-00720,Cody Mason,53,Male,27.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00721,Gavin Long,87,Male,27.7,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00722,Cynthia Good,53,Female,23.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00723,Lori Johns,52,Female,30.6,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00724,Brandon Reyes,70,Male,22.9,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00725,David Hernandez,38,Male,20.8,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00726,Gary Daniels,54,Male,31.8,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00727,Kelly Taylor,65,Female,28.6,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00728,Evan Grant,19,Male,31.9,Never,Commercial,Essential Hypertension,I10
+PJ-00729,Sheryl Acosta,43,Female,29.0,Never,Uninsured,Essential Hypertension,I10
+PJ-00730,Jason Ramos,42,Male,29.2,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00731,Brian Lopez,52,Male,32.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00732,Keith Hall,26,Male,27.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00733,Lisa Joseph,73,Female,26.7,Former,Medicare,Essential Hypertension,I10
+PJ-00734,Pamela Smith,37,Female,28.2,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00735,Tammy Duke,69,Female,22.5,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-00736,Jamie Edwards,59,Female,28.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00737,Joseph Liu,46,Male,25.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00738,Ronald Williams,66,Male,38.8,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00739,Anthony Carter,70,Male,33.5,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00740,Lisa Brown,79,Female,27.0,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00741,Michael Taylor,31,Male,23.2,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00742,Cassidy Garza,56,Female,30.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00743,Rebecca Higgins,53,Female,27.2,Never,Uninsured,Essential Hypertension,I10
+PJ-00744,Janet Moody,63,Female,36.4,Never,Commercial,Essential Hypertension,I10
+PJ-00745,Randy Barr,45,Male,25.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00746,Cassidy Joseph,74,Female,35.4,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00747,Marcus King,89,Male,30.9,Never,Medicaid,Essential Hypertension,I10
+PJ-00748,Aaron Andrade,41,Male,23.1,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00749,Leah Alvarez,28,Female,25.0,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00750,Angela Greene,57,Female,16.5,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00751,Samantha Williams,75,Female,34.8,Never,Medicaid,Essential Hypertension,I10
+PJ-00752,Ryan Evans,57,Male,27.8,Never,Commercial,Essential Hypertension,I10
+PJ-00753,Michael Carr,65,Male,20.6,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00754,Edwin Richardson,75,Male,30.6,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00755,Kelsey Warren,64,Female,42.3,Active,Commercial,Essential Hypertension,I10
+PJ-00756,John Barker,65,Male,31.0,Never,Medicare,Essential Hypertension,I10
+PJ-00757,Kelly Carney,47,Female,36.1,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00758,Johnathan White,54,Male,33.9,Never,Medicaid,Essential Hypertension,I10
+PJ-00759,Alexander Garrett,33,Male,20.6,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00760,Sarah Marsh,52,Female,26.1,Former,Uninsured,Chronic Kidney Disease,N18.3
+PJ-00761,Curtis Campbell,83,Male,28.6,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00762,Aaron Jennings,57,Male,32.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00763,Erin Morgan,56,Female,20.2,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00764,Rebecca Brewer,51,Female,32.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00765,Frances Bowers,60,Female,39.9,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00766,Ethan Herrera,73,Male,33.2,Never,Commercial,Essential Hypertension,I10
+PJ-00767,Heather Montes,62,Female,32.0,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00768,James Larson,76,Male,35.5,Never,Medicare,Essential Hypertension,I10
+PJ-00769,Andres Gutierrez,25,Male,29.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00770,Tiffany Robinson,58,Female,33.1,Never,Commercial,Essential Hypertension,I10
+PJ-00771,Paula Gentry,61,Female,29.3,Never,Commercial,Essential Hypertension,I10
+PJ-00772,Cheryl Mclean,49,Female,19.7,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00773,Todd Rhodes,57,Male,28.1,Active,Commercial,Essential Hypertension,I10
+PJ-00774,Miguel Boyd,65,Male,31.3,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00775,Amber Meyer,58,Female,35.1,Active,Medicaid,Essential Hypertension,I10
+PJ-00776,Erica Lee,45,Female,27.3,Active,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00777,Alexis Dean,58,Female,27.3,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00778,Emily Thomas,41,Female,28.7,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00779,Lisa Morgan,32,Female,31.1,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00780,Amy Simmons,89,Female,32.7,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00781,Michelle Lambert,52,Female,25.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00782,Carlos Hess,37,Male,32.9,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00783,Crystal Walker,81,Female,23.6,Active,Medicare,Essential Hypertension,I10
+PJ-00784,Mary Mccormick,55,Female,33.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00785,Lindsey Anderson,47,Female,35.2,Former,Commercial,Essential Hypertension,I10
+PJ-00786,Ricky Patel,64,Male,26.8,Never,Medicaid,Essential Hypertension,I10
+PJ-00787,Kimberly Dickson,71,Female,30.8,Former,Medicare,Chronic Kidney Disease,N18.3
+PJ-00788,Jessica Cobb,36,Female,26.8,Never,Medicaid,Essential Hypertension,I10
+PJ-00789,Laura Tucker,76,Female,25.3,Former,Medicare,Healthy / Routine Care,Z00.0
+PJ-00790,Rodney Thompson,76,Male,38.2,Never,Medicaid,Essential Hypertension,I10
+PJ-00791,James Snyder,55,Male,32.1,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00792,Stacy Berger,52,Female,30.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00793,Brittany Schmidt,33,Female,20.6,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00794,Christina Maldonado,36,Female,28.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00795,Jessica Haas,62,Female,28.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00796,William Powell,36,Male,27.1,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00797,Anthony Warner,36,Male,25.1,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00798,Janet James,47,Female,31.7,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00799,Tammy Larsen,47,Female,39.5,Never,Commercial,Essential Hypertension,I10
+PJ-00800,Chad Jones,65,Male,25.1,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00801,Angela May,63,Female,38.1,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00802,Jessica White,40,Female,34.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00803,Heather Lopez,55,Female,40.1,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00804,Jason Payne,47,Male,20.2,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00805,Michele Wilson,58,Female,27.4,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00806,Monique Terrell,83,Female,40.3,Never,Commercial,Essential Hypertension,I10
+PJ-00807,Angela Wu,37,Female,30.5,Never,Commercial,Essential Hypertension,I10
+PJ-00808,Robert Edwards,34,Male,19.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00809,Greg Osborne,89,Male,35.2,Active,Uninsured,Congestive Heart Failure,I50.9
+PJ-00810,Amanda Livingston,47,Female,33.9,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00811,Anthony Mooney,35,Male,26.1,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00812,Samuel Ramirez,78,Male,29.8,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00813,Adrian Rodriguez,19,Male,34.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00814,Dean Haynes,48,Male,22.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00815,Scott Cooper,55,Male,30.8,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00816,Christian Crawford,36,Male,31.1,Active,Medicaid,Congestive Heart Failure,I50.9
+PJ-00817,Christine Navarro,55,Female,27.9,Former,Uninsured,Essential Hypertension,I10
+PJ-00818,Brian Jackson,43,Male,21.9,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00819,Nicole Patel,80,Female,40.0,Former,Medicare,Essential Hypertension,I10
+PJ-00820,Alexandra Ho,64,Female,27.6,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00821,Thomas Walsh,46,Male,27.0,Never,Commercial,Essential Hypertension,I10
+PJ-00822,Scott Rogers,30,Male,23.2,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00823,Martha Myers,34,Female,27.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00824,Morgan Chapman,59,Female,30.4,Former,Commercial,Essential Hypertension,I10
+PJ-00825,Joshua Chambers,35,Male,32.5,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00826,Diane Lee,79,Female,36.2,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00827,Margaret Erickson,32,Female,19.4,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00828,Selena Anderson,67,Female,24.3,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00829,Stephanie Dominguez,34,Female,20.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00830,Mark Livingston,66,Male,37.7,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00831,Janet Cook,75,Female,24.8,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00832,Leonard White,61,Male,27.7,Former,Commercial,Essential Hypertension,I10
+PJ-00833,Thomas Baldwin,30,Male,25.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00834,Danielle Griffin,40,Female,37.8,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-00835,Timothy Ortega,60,Male,33.2,Former,Commercial,Essential Hypertension,I10
+PJ-00836,Laura Robertson,48,Female,38.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00837,Richard Fernandez,69,Male,27.4,Former,Medicare,Essential Hypertension,I10
+PJ-00838,Latoya Donovan,57,Female,38.5,Active,Uninsured,Type 2 Diabetes,E11.9
+PJ-00839,Brandon Nichols,46,Male,34.3,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00840,Andrew Cruz,67,Male,28.7,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00841,Mackenzie Moss,82,Female,25.7,Active,Medicare,Essential Hypertension,I10
+PJ-00842,Joshua Parker,45,Male,37.6,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00843,Amy French,65,Female,33.4,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-00844,Shannon Hernandez,26,Male,24.6,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00845,Brenda Valdez,67,Female,39.3,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00846,Carlos Jackson,48,Male,33.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00847,Kevin Meyers,52,Male,21.6,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00848,Connie Brock,73,Female,27.1,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00849,Chad Copeland,57,Male,26.2,Never,Commercial,Essential Hypertension,I10
+PJ-00850,Charles Perry,49,Male,44.3,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00851,Logan Strickland,51,Male,26.0,Former,Commercial,Essential Hypertension,I10
+PJ-00852,Ann Pearson,19,Female,28.6,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00853,Patricia Schwartz,52,Female,27.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00854,Jennifer Hurley,66,Female,31.8,Former,Medicare,Essential Hypertension,I10
+PJ-00855,Rachel Bailey,52,Female,28.9,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00856,Kerri Davis,63,Female,36.2,Former,Commercial,Essential Hypertension,I10
+PJ-00857,Colleen Townsend,28,Female,16.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00858,Destiny Lee,33,Female,30.0,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00859,Melinda Schmitt,52,Female,32.2,Former,Commercial,Essential Hypertension,I10
+PJ-00860,Amanda Newman,29,Female,28.1,Active,Commercial,Essential Hypertension,I10
+PJ-00861,Renee Chang,57,Female,36.5,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00862,Karina Wilson,71,Female,34.3,Never,Commercial,Essential Hypertension,I10
+PJ-00863,Erika Maxwell,43,Female,25.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00864,Sergio Bennett,49,Male,22.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00865,Jordan Hughes,72,Female,29.5,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00866,Anthony Taylor,28,Male,31.1,Never,Medicaid,Essential Hypertension,I10
+PJ-00867,Larry Clarke,45,Male,28.5,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00868,Scott Burns,38,Male,27.6,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00869,David Murphy,73,Male,35.3,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00870,Laura Smith,41,Female,32.4,Never,Commercial,Essential Hypertension,I10
+PJ-00871,Patricia Johnson,44,Female,26.1,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00872,David Hansen,88,Male,41.7,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00873,John Torres,80,Male,30.0,Former,Medicare,Essential Hypertension,I10
+PJ-00874,Jesse Ingram,50,Male,34.6,Never,Commercial,Essential Hypertension,I10
+PJ-00875,Mark Dalton,32,Male,25.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00876,Andrew Simmons,53,Male,26.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00877,Shirley Fitzgerald,58,Female,21.0,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00878,Megan Barron,67,Female,35.1,Never,Medicare,Essential Hypertension,I10
+PJ-00879,Andrea Fletcher,49,Female,39.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00880,Lauren Haley,58,Female,47.0,Active,Medicaid,Type 2 Diabetes,E11.9
+PJ-00881,Michael Ramirez,76,Male,27.8,Never,Commercial,Essential Hypertension,I10
+PJ-00882,Meghan Patel,40,Female,29.5,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00883,Rhonda Everett,58,Female,33.5,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00884,Tina Rodriguez,60,Female,35.5,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00885,Elaine Montes,25,Female,24.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00886,Bonnie Reed,83,Female,38.1,Never,Medicare,Essential Hypertension,I10
+PJ-00887,Theresa Newman,26,Female,21.1,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00888,Grant Lucas,71,Male,28.1,Active,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00889,Ryan Wallace,59,Male,25.3,Never,Commercial,Essential Hypertension,I10
+PJ-00890,Kari Arellano,85,Female,31.4,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00891,Tammy Joseph,78,Female,27.8,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00892,David Williams,78,Male,18.8,Former,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00893,Amanda Stewart,50,Female,35.0,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00894,Tami Sullivan,29,Female,23.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00895,Charles Ellis,52,Male,30.4,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00896,Michael Wells,62,Male,33.7,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00897,Charles Cunningham,43,Male,25.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00898,Nicholas Mccullough,55,Male,29.4,Never,Commercial,Essential Hypertension,I10
+PJ-00899,James Randall,58,Male,33.5,Never,Commercial,Essential Hypertension,I10
+PJ-00900,Courtney Walls,51,Female,31.5,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00901,Jeremy Powers,68,Male,23.6,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00902,Lisa Harding,40,Female,37.8,Former,Commercial,Essential Hypertension,I10
+PJ-00903,Jaclyn Watson,79,Female,25.2,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-00904,Regina Roberts,58,Female,26.6,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00905,Kevin Miller,48,Male,33.4,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00906,Ann Ortiz,60,Female,25.1,Never,Commercial,Essential Hypertension,I10
+PJ-00907,Breanna Lopez,49,Female,28.4,Former,Uninsured,Type 2 Diabetes,E11.9
+PJ-00908,Elizabeth Hansen,40,Female,31.3,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00909,Sandra Kennedy,79,Female,37.8,Former,Commercial,Essential Hypertension,I10
+PJ-00910,Katherine Watts,68,Female,38.9,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00911,Lauren Cunningham,71,Female,22.4,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00912,Bryan Hunt,89,Male,38.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00913,Emma Johns,41,Female,24.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00914,Denise Barnes,60,Female,32.7,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00915,Jose Miranda,38,Male,23.4,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00916,Samantha Cohen,57,Female,32.1,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00917,Anne Carpenter,48,Female,33.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00918,Kari Peterson,64,Female,29.5,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00919,Louis Guerra,68,Male,23.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00920,Kristen Avila,61,Female,28.4,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00921,Tammy Mendoza,37,Female,22.9,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00922,Steve Harper,52,Male,34.7,Active,Medicaid,Type 2 Diabetes,E11.9
+PJ-00923,Robin Walker,27,Female,29.2,Active,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00924,Calvin Anderson,51,Male,25.6,Active,Commercial,Chronic Kidney Disease,N18.3
+PJ-00925,Amanda Rodriguez,51,Female,34.5,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00926,Bryan King,40,Male,22.1,Active,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00927,Christine Santana,89,Female,37.1,Active,Medicare,Congestive Heart Failure,I50.9
+PJ-00928,Gregory Martin,48,Male,36.3,Former,Commercial,Essential Hypertension,I10
+PJ-00929,Kelly Garcia,83,Male,23.3,Never,Medicaid,Congestive Heart Failure,I50.9
+PJ-00930,Steven Medina,50,Male,35.4,Never,Commercial,Essential Hypertension,I10
+PJ-00931,Kevin Gonzales,86,Male,23.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00932,James Lewis,57,Male,29.4,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-00933,Becky Rodriguez,47,Female,34.1,Never,Medicaid,Essential Hypertension,I10
+PJ-00934,Justin Williams,54,Male,26.5,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-00935,Dylan Wyatt,48,Male,34.0,Never,Commercial,Essential Hypertension,I10
+PJ-00936,Karen Shelton,55,Female,32.4,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00937,Jessica Barrett,54,Female,30.7,Never,Commercial,Essential Hypertension,I10
+PJ-00938,Ashley Schaefer,33,Female,26.5,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-00939,Barbara Massey,52,Female,32.3,Never,Medicaid,Essential Hypertension,I10
+PJ-00940,Don Clarke,70,Male,28.5,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00941,Jared Washington,51,Male,35.5,Former,Commercial,Essential Hypertension,I10
+PJ-00942,Mark Taylor,54,Male,34.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00943,Valerie Reyes,43,Female,31.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00944,Billy Walton,25,Male,17.6,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00945,Dakota Bates,56,Male,29.6,Former,Medicare,Essential Hypertension,I10
+PJ-00946,Kimberly Cisneros,23,Female,23.4,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00947,Janet Edwards,48,Female,26.3,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-00948,Katherine Taylor,35,Female,28.4,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00949,Melissa Armstrong,57,Female,32.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-00950,Vanessa Flores,49,Female,32.0,Never,Commercial,Essential Hypertension,I10
+PJ-00951,Alexander Vance,57,Male,22.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00952,Hunter Bell,56,Male,37.6,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00953,Leslie Lozano,71,Female,27.6,Never,Medicare,Essential Hypertension,I10
+PJ-00954,Alicia Nguyen,53,Female,25.1,Never,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00955,Deborah Dominguez,46,Female,26.5,Active,Medicare,Essential Hypertension,I10
+PJ-00956,Ariel Leonard,44,Female,27.8,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00957,Jack Graham,32,Male,21.3,Former,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00958,Rachel Pittman,52,Female,27.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00959,Whitney Morales,35,Female,29.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00960,Brandon Rogers,35,Male,33.6,Never,Medicare,Essential Hypertension,I10
+PJ-00961,Daniel Flynn,54,Male,28.9,Never,Commercial,Essential Hypertension,I10
+PJ-00962,Curtis Morales,67,Male,33.5,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-00963,Laura Lewis,49,Female,32.2,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-00964,Joseph Mendez,40,Male,28.5,Active,Commercial,Essential Hypertension,I10
+PJ-00965,Mark Boyd,80,Male,30.1,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-00966,Emma Greer,41,Female,31.8,Former,Commercial,Essential Hypertension,I10
+PJ-00967,Dawn Burke,77,Female,40.5,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-00968,Samantha Marshall,58,Female,37.0,Former,Commercial,Essential Hypertension,I10
+PJ-00969,Breanna Green,47,Female,30.3,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00970,Sarah Stuart,45,Female,28.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-00971,Angela Guzman,47,Female,28.6,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00972,Heidi Sandoval,26,Female,22.6,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00973,Terri Ramsey,31,Female,26.7,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-00974,Timothy Boyd,57,Male,23.7,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00975,Timothy King,19,Male,19.1,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-00976,Renee Murphy,56,Female,34.3,Never,Uninsured,Essential Hypertension,I10
+PJ-00977,Christopher Booker,64,Male,20.2,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00978,John Brooks,44,Male,33.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00979,Sherry Giles,34,Female,37.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-00980,Lisa Skinner,46,Female,22.0,Former,Uninsured,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-00981,Cynthia Tran,37,Female,35.4,Former,Commercial,Essential Hypertension,I10
+PJ-00982,Scott Price,51,Male,28.9,Never,Medicaid,Essential Hypertension,I10
+PJ-00983,David Clark,56,Male,25.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00984,Thomas Welch,19,Male,24.3,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-00985,Jared Johnson,49,Male,23.5,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00986,Jennifer Randall,61,Female,35.2,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-00987,Guy Guzman,55,Male,34.3,Active,Uninsured,Essential Hypertension,I10
+PJ-00988,Mark Gibbs,74,Male,30.6,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-00989,Bradley Moore,41,Male,25.6,Never,Medicare,Healthy / Routine Care,Z00.0
+PJ-00990,Pamela Bradford,47,Female,25.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00991,Karen Moss,89,Female,25.1,Never,Commercial,Essential Hypertension,I10
+PJ-00992,Craig Perry,66,Male,23.0,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-00993,Travis Leblanc,53,Male,31.2,Never,Uninsured,Congestive Heart Failure,I50.9
+PJ-00994,Jessica Green,40,Female,24.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-00995,Travis Wilson,50,Male,24.6,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00996,Jeffrey Mora,51,Male,29.9,Former,Uninsured,Type 2 Diabetes,E11.9
+PJ-00997,Michelle Lee,63,Female,28.8,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-00998,Carlos Gates,27,Male,23.8,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-00999,Whitney Campbell,81,Female,34.6,Never,Medicare,Essential Hypertension,I10
+PJ-01000,Lisa Solomon,34,Female,23.0,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-01001,Erica Steele,35,Female,32.5,Never,Commercial,Essential Hypertension,I10
+PJ-01002,Dawn Davis,50,Female,35.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01003,Todd Coffey,82,Male,35.3,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01004,Tracy Hansen,41,Female,28.0,Former,Medicaid,Essential Hypertension,I10
+PJ-01005,Tara Humphrey,86,Female,31.1,Former,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01006,Bethany Savage,30,Female,22.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01007,Tammy Campbell,89,Female,34.8,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01008,Emily Vang,61,Female,39.8,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01009,Brittany Hall,71,Female,21.7,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-01010,Whitney Ho,53,Female,29.4,Active,Commercial,Essential Hypertension,I10
+PJ-01011,Sean Martinez,72,Male,30.7,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01012,Laurie Silva,79,Female,38.1,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-01013,Angela Tate,71,Female,23.3,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01014,Michael Long,41,Male,33.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01015,Sandra Keller,22,Female,26.3,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-01016,Tina Wheeler,57,Female,34.0,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01017,Nicholas Navarro,24,Male,22.9,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-01018,Amber Schneider,35,Female,31.1,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-01019,James Thompson,63,Male,39.3,Never,Commercial,Essential Hypertension,I10
+PJ-01020,Christopher Chan,63,Male,30.3,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01021,Renee Collins,61,Female,28.4,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01022,John Mcclure,76,Male,24.2,Never,Medicare,Healthy / Routine Care,Z00.0
+PJ-01023,Kristine Henderson,63,Female,27.2,Active,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01024,Jeffery Williams,44,Male,33.8,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01025,Earl Kim,89,Male,35.5,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01026,Ryan Mills,79,Male,28.5,Former,Medicare,Essential Hypertension,I10
+PJ-01027,Andrew Rodriguez,66,Male,33.6,Never,Medicare,Essential Hypertension,I10
+PJ-01028,Brad Gordon,66,Male,24.4,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-01029,Laurie Gibson,56,Female,25.9,Never,Commercial,Essential Hypertension,I10
+PJ-01030,Shelby Lopez,45,Female,30.1,Active,Commercial,Essential Hypertension,I10
+PJ-01031,Kimberly Smith,37,Female,31.6,Never,Commercial,Essential Hypertension,I10
+PJ-01032,Lindsay Tucker,45,Female,30.2,Former,Uninsured,Essential Hypertension,I10
+PJ-01033,Eric Martinez,56,Male,32.4,Never,Commercial,Essential Hypertension,I10
+PJ-01034,Mariah Santos,29,Female,23.8,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-01035,Cheryl Turner,39,Female,22.8,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01036,Christian Park,26,Male,26.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01037,Sandra Williams,24,Female,26.3,Never,Medicaid,Essential Hypertension,I10
+PJ-01038,Linda Spencer,61,Female,33.6,Active,Medicaid,Type 2 Diabetes,E11.9
+PJ-01039,Lisa Gregory,67,Female,40.9,Never,Medicare,Essential Hypertension,I10
+PJ-01040,Emily Brown,75,Female,30.9,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01041,Todd Reed,55,Male,35.6,Former,Uninsured,Congestive Heart Failure,I50.9
+PJ-01042,Colleen Stout,59,Female,26.7,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01043,Ryan Sandoval,56,Male,28.4,Former,Medicaid,Chronic Kidney Disease,N18.3
+PJ-01044,Michael Navarro,47,Male,34.7,Never,Commercial,Essential Hypertension,I10
+PJ-01045,Marco Campbell,40,Male,26.6,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01046,Michael Anderson,76,Male,24.9,Never,Medicare,Essential Hypertension,I10
+PJ-01047,Eric Clark,53,Male,31.5,Former,Medicaid,Type 2 Diabetes,E11.9
+PJ-01048,Ronald Kline,78,Male,31.8,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-01049,David Peterson,48,Male,37.4,Active,Commercial,Essential Hypertension,I10
+PJ-01050,Derek Hernandez,89,Male,26.9,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01051,Tammy Kim,54,Female,27.4,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01052,Rachael Meza,75,Female,24.0,Never,Medicare,Essential Hypertension,I10
+PJ-01053,Brooke Carter,79,Female,26.8,Former,Commercial,Essential Hypertension,I10
+PJ-01054,Brett Holland,63,Male,41.1,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01055,David Lamb,71,Male,22.7,Never,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01056,Nicole Ward,45,Female,32.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01057,Crystal Pham,51,Female,34.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01058,Robert Cox,60,Male,30.2,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-01059,Bradley Edwards,46,Male,20.2,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-01060,Antonio Malone,50,Male,34.7,Never,Commercial,Essential Hypertension,I10
+PJ-01061,Michelle Guerrero,32,Female,19.7,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-01062,Elizabeth Morales,40,Female,35.0,Former,Commercial,Essential Hypertension,I10
+PJ-01063,Diana Rose,72,Female,32.5,Former,Medicare,Essential Hypertension,I10
+PJ-01064,Kimberly Kramer,82,Female,35.7,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01065,Eric Johnson,77,Male,21.6,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01066,Diane Davis,76,Female,30.0,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-01067,Robert Vargas,70,Male,35.6,Active,Medicare,Type 2 Diabetes,E11.9
+PJ-01068,Jacqueline Sims,62,Female,26.7,Former,Medicaid,Essential Hypertension,I10
+PJ-01069,Norman Chavez,67,Male,35.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01070,Joseph Larson,65,Male,42.2,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-01071,Miguel Chambers,45,Male,26.9,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01072,Isaiah Garcia,59,Male,36.9,Never,Commercial,Essential Hypertension,I10
+PJ-01073,Stephen Alvarez,43,Male,28.1,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01074,Dennis Porter,24,Male,20.3,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01075,Tara Burns,62,Female,34.7,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01076,Michele Boyer,63,Female,36.5,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-01077,Lindsay Ortiz,88,Female,27.9,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-01078,Katelyn Moody,50,Female,33.9,Active,Uninsured,Essential Hypertension,I10
+PJ-01079,Robert Burns,38,Male,27.1,Never,Medicare,Essential Hypertension,I10
+PJ-01080,Krystal Mccullough,69,Female,28.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01081,Kathy Murray,36,Female,29.2,Never,Commercial,Essential Hypertension,I10
+PJ-01082,Matthew Ortiz,53,Male,33.1,Never,Medicaid,Essential Hypertension,I10
+PJ-01083,Maria Cline,47,Female,31.6,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01084,Michelle Hoffman,76,Female,31.6,Never,Medicare,Essential Hypertension,I10
+PJ-01085,Amy Hudson,29,Female,35.3,Active,Commercial,Essential Hypertension,I10
+PJ-01086,Alicia Buchanan,89,Female,30.9,Never,Medicare,Essential Hypertension,I10
+PJ-01087,James Williams,59,Male,29.2,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-01088,Ashley Garcia,53,Female,33.2,Never,Commercial,Essential Hypertension,I10
+PJ-01089,Jennifer Jackson,56,Female,26.3,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-01090,Erica Gutierrez,44,Female,33.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01091,Paul Cruz,85,Male,29.0,Never,Commercial,Essential Hypertension,I10
+PJ-01092,Cynthia Mercado,39,Female,28.5,Never,Medicaid,Essential Hypertension,I10
+PJ-01093,Eric Russell,59,Male,28.0,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-01094,Jessica Buck,43,Female,33.5,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01095,William Smith,42,Male,27.1,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01096,Gregory Chen,30,Male,23.6,Active,Commercial,Healthy / Routine Care,Z00.0
+PJ-01097,Katrina Williams,27,Female,24.4,Former,Medicaid,Healthy / Routine Care,Z00.0
+PJ-01098,Elizabeth Foster,59,Female,21.6,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01099,Douglas Reynolds,65,Male,32.1,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-01100,Danielle Bird,54,Female,23.9,Never,Medicaid,Healthy / Routine Care,Z00.0
+PJ-01101,Linda Smith,52,Female,35.2,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-01102,Jennifer Woodard,59,Female,26.0,Never,Commercial,Essential Hypertension,I10
+PJ-01103,Billy Johnson,61,Male,29.1,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-01104,Randy Terry,62,Male,32.2,Active,Uninsured,Chronic Kidney Disease,N18.3
+PJ-01105,Heather Davis,77,Female,30.0,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-01106,Heidi Campbell,89,Female,24.0,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-01107,James Kane,43,Male,30.9,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01108,Krystal Jones,74,Female,29.1,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01109,Laura Perez,63,Female,37.8,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01110,Michael Braun,68,Male,30.0,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-01111,Todd Davidson,34,Male,23.9,Never,Uninsured,Healthy / Routine Care,Z00.0
+PJ-01112,Amber Mcmillan,44,Female,33.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01113,Julie Ward,75,Female,33.4,Never,Commercial,Essential Hypertension,I10
+PJ-01114,Jason Cole,66,Male,26.1,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-01115,Vanessa Coleman,50,Female,43.9,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01116,Karen Morton,68,Female,34.9,Never,Uninsured,Essential Hypertension,I10
+PJ-01117,Glen Brown,28,Male,23.7,Former,Commercial,Healthy / Routine Care,Z00.0
+PJ-01118,Patricia Harvey,33,Female,34.3,Former,Uninsured,Congestive Heart Failure,I50.9
+PJ-01119,Amy Johnson,53,Female,19.3,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01120,Jessica Turner,51,Female,26.1,Never,Medicaid,Essential Hypertension,I10
+PJ-01121,Jane Davis,70,Female,31.8,Never,Uninsured,Essential Hypertension,I10
+PJ-01122,Robert Hobbs,44,Male,37.7,Former,Commercial,Essential Hypertension,I10
+PJ-01123,Cheryl Garcia,62,Female,32.9,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01124,Cory Berry,50,Male,28.8,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-01125,Jill Sanchez,55,Female,39.3,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01126,Stacey Rowe,86,Female,31.3,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01127,Amy Hunter,48,Female,36.2,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01128,Rachel Peterson,64,Female,42.1,Active,Medicaid,Type 2 Diabetes,E11.9
+PJ-01129,Erin Lane,69,Female,26.4,Former,Medicare,Congestive Heart Failure,I50.9
+PJ-01130,Colleen Smith,42,Female,28.1,Active,Commercial,Type 2 Diabetes,E11.9
+PJ-01131,Nicholas Cisneros,50,Male,31.8,Former,Commercial,Essential Hypertension,I10
+PJ-01132,Heidi Jones,63,Female,35.0,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01133,Cheyenne Willis,64,Female,30.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01134,Christina Thompson,88,Female,34.2,Never,Medicare,Essential Hypertension,I10
+PJ-01135,Kristen White,49,Female,23.7,Active,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01136,Alisha Byrd,38,Female,32.7,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01137,Teresa Rowland,60,Female,27.2,Former,Commercial,Chronic Kidney Disease,N18.3
+PJ-01138,Charles Glass,56,Male,28.7,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01139,Vanessa Sanchez,60,Female,34.8,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01140,Rachel Murphy,24,Female,29.6,Active,Medicaid,Healthy / Routine Care,Z00.0
+PJ-01141,Sarah Schmitt,64,Female,34.7,Active,Uninsured,Type 2 Diabetes,E11.9
+PJ-01142,Jordan Potter,89,Male,36.8,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-01143,Jacqueline Neal,50,Female,28.6,Active,Medicaid,Essential Hypertension,I10
+PJ-01144,Jennifer Morse,72,Female,34.0,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01145,Elizabeth Oneal,64,Female,35.6,Never,Commercial,Essential Hypertension,I10
+PJ-01146,Chad Miller,87,Male,33.4,Former,Medicare,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01147,John Oliver,57,Male,34.6,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01148,Robert Stewart,64,Male,33.0,Never,Commercial,Essential Hypertension,I10
+PJ-01149,Heather Miller,63,Female,24.7,Former,Medicaid,Essential Hypertension,I10
+PJ-01150,Benjamin Johnson,43,Male,26.4,Active,Commercial,Chronic Kidney Disease,N18.3
+PJ-01151,Michele Bolton,53,Female,28.9,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01152,Samantha Logan,47,Female,25.5,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01153,Kaitlyn Hunt,71,Female,27.9,Never,Medicare,Chronic Kidney Disease,N18.3
+PJ-01154,Kelli Hartman,63,Female,35.7,Former,Commercial,Congestive Heart Failure,I50.9
+PJ-01155,Cole Carrillo,19,Male,20.9,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01156,Justin Brooks,57,Male,24.6,Never,Commercial,Chronic Kidney Disease,N18.3
+PJ-01157,Melissa Powell,47,Female,33.4,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01158,Christian Cisneros,45,Male,32.6,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-01159,William Harris,38,Male,28.5,Active,Commercial,Essential Hypertension,I10
+PJ-01160,Keith Hayes,37,Male,27.3,Never,Medicaid,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01161,Amanda Barker,66,Female,29.2,Never,Commercial,Essential Hypertension,I10
+PJ-01162,Victor Campbell,35,Male,30.0,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01163,Shannon Jenkins,76,Female,38.6,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01164,Benjamin Friedman,62,Male,31.0,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01165,Michael Wells,41,Male,33.3,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-01166,Michael Hill,53,Male,37.3,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01167,Rhonda Fox,49,Female,40.7,Never,Medicaid,Essential Hypertension,I10
+PJ-01168,Stanley Bryant,41,Male,32.9,Former,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01169,Christopher Wright,39,Male,38.2,Never,Uninsured,Type 2 Diabetes,E11.9
+PJ-01170,Laura Long,46,Female,32.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01171,Lori Carter,68,Female,38.2,Former,Medicaid,Essential Hypertension,I10
+PJ-01172,Daniel Snyder,64,Male,30.5,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01173,Angela Garcia,74,Female,27.2,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01174,Jonathan Murray,77,Male,32.7,Former,Commercial,Type 2 Diabetes,E11.9
+PJ-01175,James Reese,48,Male,31.6,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-01176,Andrea Kelley,44,Female,36.3,Active,Medicaid,Congestive Heart Failure,I50.9
+PJ-01177,Alicia Garcia,52,Female,25.3,Never,Commercial,Type 2 Diabetes,E11.9
+PJ-01178,Phillip Byrd,87,Male,28.4,Never,Medicaid,Chronic Kidney Disease,N18.3
+PJ-01179,Robin Davidson,76,Female,37.6,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01180,Timothy Brooks,48,Male,39.9,Active,Commercial,Congestive Heart Failure,I50.9
+PJ-01181,Corey Caldwell,37,Male,28.6,Never,Medicare,Essential Hypertension,I10
+PJ-01182,Carol Perry,61,Female,40.6,Never,Commercial,Essential Hypertension,I10
+PJ-01183,Christine Weaver,84,Female,39.9,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01184,Jennifer Stewart,52,Female,30.8,Never,Commercial,Essential Hypertension,I10
+PJ-01185,Matthew Wood,31,Male,25.5,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01186,Elizabeth George,32,Female,27.5,Never,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01187,Samuel Jackson,40,Male,27.6,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01188,Gary Reid,73,Male,30.8,Former,Medicaid,Congestive Heart Failure,I50.9
+PJ-01189,Janet Davidson,63,Female,33.5,Former,Medicare,Type 2 Diabetes,E11.9
+PJ-01190,Eric Rojas,67,Male,31.6,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-01191,James Phillips,71,Male,32.0,Never,Medicare,Type 2 Diabetes,E11.9
+PJ-01192,Nancy Murphy,71,Female,31.0,Never,Medicare,Congestive Heart Failure,I50.9
+PJ-01193,William Wong,64,Male,28.4,Former,Medicare,Essential Hypertension,I10
+PJ-01194,Gary Allen,51,Male,28.3,Active,Commercial,Chronic Obstructive Pulmonary Disease,J44.9
+PJ-01195,Melissa Ball,62,Female,30.2,Never,Commercial,Congestive Heart Failure,I50.9
+PJ-01196,Corey Walters,62,Male,29.6,Never,Medicare,Essential Hypertension,I10
+PJ-01197,David Miller,19,Male,22.4,Never,Commercial,Healthy / Routine Care,Z00.0
+PJ-01198,Mikayla Sanchez,51,Female,36.8,Never,Medicaid,Type 2 Diabetes,E11.9
+PJ-01199,Denise Harrington,51,Female,26.7,Never,Medicaid,Essential Hypertension,I10
+PJ-01200,Jonathan Moss,59,Male,32.9,Active,Commercial,Essential Hypertension,I10
